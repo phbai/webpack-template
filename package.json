@@ -1,5 +1,5 @@
 {
-  "name": "webpack-from-stretch",
+  "name": "webpack-template",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -25,6 +25,7 @@
     "@types/react-router-dom": "^4.3.2",
     "babel-loader": "^8.0.6",
     "babel-plugin-import": "^1.12.0",
+    "babel-plugin-module-resolver": "^4.0.0",
     "clean-webpack-plugin": "^2.0.1",
     "css-loader": "^2.1.1",
     "csv-loader": "^3.0.2",
@@ -51,6 +52,9 @@
     "antd": "^3.19.7",
     "babel-polyfill": "^6.26.0",
     "lodash": "^4.17.11",
+    "mobx": "^5.15.6",
+    "mobx-react": "^6.3.0",
+    "mobx-state-tree": "^3.17.2",
     "normalize.css": "^8.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
